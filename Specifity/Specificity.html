@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Specificity in css</title>
+	<style>
+		header.navigation p{
+			color:blue;
+		}
+		p.blurb{
+			color: red;
+		}
+		p{
+			color: green !important;
+		}
+	</style>
+</head>
+<body>
+<header class="navigation"></header>
+<p class="blurb">Loreum ipsum  dolor sit amet, consectetur adipisicing elit.</p>
+</body>
+</html>
