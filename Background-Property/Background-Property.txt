@@ -1,0 +1,6 @@
+Background-image:url("");
+Background-repeat:(i)-->no-repeat;
+                  (ii)-->repeat-x;
+                  (iii)-->repeat-y;
+                  (iv)-->repeat;
+Background-position:top right(many other);                  
