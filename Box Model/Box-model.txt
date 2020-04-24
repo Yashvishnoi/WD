@@ -1,0 +1,8 @@
+* Prefer--> box-sizing:border box;
+The *(universal) selector
+Cummulative and Collapsing margin
+Content overflow::-->To save overflow use -->
+ (i)--> overflow:visible; (by default)
+ (ii)--> overflow:hidden;(hide the data outside the box)
+ (iii)--> overflow:auto;(it will put scroll bar up to down)
+ (iv)--> overflow:scroll;(it will put scroll bar from up to down &  right to left)
