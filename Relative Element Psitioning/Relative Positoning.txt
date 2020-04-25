@@ -1,0 +1,3 @@
+Element is positioned relative to its position in normal document flow.
+Positioning CSS(offset) properties are: (i)-->top, (ii)-->bottom, (iii)-->left, (iv)-->right.
+Element is not taken out of normal document flow .Even if moved, its origin spot is preserved.
