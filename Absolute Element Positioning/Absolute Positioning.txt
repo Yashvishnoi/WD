@@ -1,0 +1,3 @@
+All offsets(top, bottom, left, right) are relative to the position of the nearest ancestor which has positioning set on it, other than static.
+By default, html is the only element that has non-static positioning set on it (relative),
+Element is taken out of normal document flow.
